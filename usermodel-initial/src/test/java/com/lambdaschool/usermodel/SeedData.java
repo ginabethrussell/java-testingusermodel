@@ -29,7 +29,6 @@ import java.util.Locale;
     value = "enabled",
     havingValue = "true",
     matchIfMissing = true)
-
 @Component
 public class SeedData
     implements CommandLineRunner
